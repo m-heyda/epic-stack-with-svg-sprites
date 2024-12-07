@@ -65,7 +65,7 @@
     "dotenv": "^16.1.4",
     "eslint-plugin-remix-react-routes": "^1.0.5",
     "execa": "^7.1.1",
-    "express": "^4.18.2",
+    "express": "^4.21.2",
     "get-port": "^7.0.0",
     "helmet": "^7.0.0",
     "isbot": "^3.6.10",
