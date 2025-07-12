@@ -69,7 +69,7 @@
     "get-port": "^7.0.0",
     "helmet": "^7.0.0",
     "isbot": "^3.6.10",
-    "litefs-js": "^1.1.2",
+    "litefs-js": "^2.0.0",
     "lru-cache": "^9.1.2",
     "morgan": "^1.10.0",
     "prisma": "^4.16.0",
